@@ -1,8 +1,8 @@
-# { name } resume
+# sea-edge resume
 
 ## Sample
 
-https://github.com/sea-edge/resume
+https://sea-edge.github.io/resume/
 
 ## Features
 
