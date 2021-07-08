@@ -7,18 +7,7 @@
 |Name|Kaito Ryuzaki|
 |Birth|1994/8/9|
 |Twitter|https://twitter.com/kaito0809Lbiri|
-<!-- |Qiita|https://qiita.com/sea-radical|
-|note||
-|Zenn||
-|SpeakerDeck||
 
----
-
-## Skills
-
-- 
-
- -->
 ---
 
 ## Technology Stack
