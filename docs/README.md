@@ -6,7 +6,7 @@
 |---|---|
 |Name|Kaito Ryuzaki|
 |Birth|1994/8/9|
-|Twitter|https://twitter.com/kaito0809Lbiri|
+|Twitter|[https://twitter.com/kaito0809Lbiri](https://twitter.com/kaito0809Lbiri)|
 
 ---
 
@@ -19,10 +19,10 @@
 - Java
 - Dart
 - PHP 
-- Solidity(Hobby)
+- Solidity
 - Go(Hobby)
 - Rust(Hobby)
-- C++
+- C++(Hobby)
 
 ### Frameworks, etc.
 
@@ -69,7 +69,7 @@ Building a Data lake to store Big data for Fintech company
     - Scrum development with an average team of 2 people
 - **Role：**
     - Development lead
-    - design and coding
+    - Design and coding
 - **Technology Stack：**
     - AWS Glue
     - Athena
@@ -83,7 +83,7 @@ Cryptocurrency Market Analysis Research and Development
     - Scrum development with an average team of 2 people
 - **Role：**
     - Development lead
-    - design and coding
+    - Design and coding
 - **Technology Stack：**
     - Python
     - Jupyter
@@ -99,7 +99,7 @@ Online Community Service Development
     - Scrum development with an average team of 10 people
 - **Role：**
     - Development lead
-    - design and coding
+    - Design and coding
 - **Technology Stack：**
     - Flutter
     - Firebase
@@ -111,7 +111,7 @@ AI cash register R&D
     - 2 people
 - **Role：**
     - Development member
-    - design and coding
+    - Design and coding
 - **Technology Stack：**
     - Python
     - GCP
@@ -161,7 +161,7 @@ Cryptocurrency Trade System
     - Waterfall development with a team of 20-30 people
 - **Role：**
     - Development member 
-    - design, coding, and testing
+    - Design, coding, and testing
 - **Technology Stack：**
     - Vue.js
     - AWS Lambda(Node.js)/DynamoDB
