@@ -5,7 +5,6 @@
 |key|value|
 |---|---|
 |Name|Kaito Ryuzaki|
-|Birth|1994/8/9|
 |Twitter|[https://twitter.com/kaito0809Lbiri](https://twitter.com/kaito0809Lbiri)|
 
 ---
