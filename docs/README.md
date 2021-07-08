@@ -5,6 +5,7 @@
 |key|value|
 |---|---|
 |Name|Kaito Ryuzaki|
+|Facebook|[https://www.facebook.com/kaito.ryuzaki.3](https://www.facebook.com/kaito.ryuzaki.3)|
 |Twitter|[https://twitter.com/kaito0809Lbiri](https://twitter.com/kaito0809Lbiri)|
 
 ---
