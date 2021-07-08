@@ -104,6 +104,7 @@ Online Community Service Development
     - Flutter
     - Firebase
     - Nuxt.js
+    - etc.
 
 AI cash register R&D
 - **Project scale：**
@@ -121,6 +122,9 @@ AI cash register R&D
     - Pillow
     - C++
     - NVIDIA
+    - etc.
+
+
 etc.
 
 ### Simplex Inc.（2017/04〜2019/07）
@@ -136,6 +140,7 @@ Blockchain R&D
     - Solidity
     - Ganache
     - Loom SDK
+    - etc.
 
 
 Cryptocurrency Wallet System
