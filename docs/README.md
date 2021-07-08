@@ -151,7 +151,7 @@ Cryptocurrency Wallet System
     - Spring Boot/MySQL 
     - etc.
 
-Cryptocurrency Trade System（2017/04〜2018/01）
+Cryptocurrency Trade System
 - **Project scale：**
     - Waterfall development with a team of 20-30 people
 - **Role：**
