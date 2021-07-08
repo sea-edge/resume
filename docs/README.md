@@ -14,7 +14,7 @@
 
 ### Language
 
-- Javascript
+- JavaScript
 - Python
 - Java
 - Dart
@@ -48,14 +48,14 @@
    - SAM
    - Amplify
    - Code Series
-   - etc.
+   - etc. 
 
 - GCP
    - GAE
    - GCE
    - BigQuery
    - Functions
-   - etc.
+   - etc. 
 
 
 ---
@@ -76,7 +76,7 @@ Building a Data lake to store Big data for Fintech company
     - Sage Maker
     - Cloud Formation
     - S3
-    - etc.
+    - etc. 
 
 Cryptocurrency Market Analysis Research and Development
 - **Project scale：**
@@ -92,7 +92,7 @@ Cryptocurrency Market Analysis Research and Development
     - BigQuery
     - Cloud Formation
     - S3
-    - etc.
+    - etc. 
 
 Online Community Service Development
 - **Project scale：**
@@ -104,7 +104,7 @@ Online Community Service Development
     - Flutter
     - Firebase
     - Nuxt.js
-    - etc.
+    - etc. 
 
 AI cash register R&D
 - **Project scale：**
@@ -122,7 +122,7 @@ AI cash register R&D
     - Pillow
     - C++
     - NVIDIA
-    - etc.
+    - etc. 
 
 
 etc.
@@ -140,7 +140,7 @@ Blockchain R&D
     - Solidity
     - Ganache
     - Loom SDK
-    - etc.
+    - etc. 
 
 
 Cryptocurrency Wallet System
@@ -154,7 +154,7 @@ Cryptocurrency Wallet System
     - AWS Lambda(Node.js)/DynamoDB
     - SAM
     - Spring Boot/MySQL 
-    - etc.
+    - etc. 
 
 Cryptocurrency Trade System
 - **Project scale：**
@@ -169,5 +169,5 @@ Cryptocurrency Trade System
     - Backbone.js
     - Oracle
     - VMware
-    - etc.
+    - etc. 
 
