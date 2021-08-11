@@ -154,6 +154,8 @@ Cryptocurrency Wallet System
     - AWS Lambda(Node.js)/DynamoDB
     - SAM
     - Spring Boot/MySQL 
+    - Mackerel
+    - Splunk
     - etc. 
 
 Cryptocurrency Trade System
@@ -163,11 +165,10 @@ Cryptocurrency Trade System
     - Development member 
     - Design, coding, and testing
 - **Technology Stack：**
-    - Vue.js
-    - AWS Lambda(Node.js)/DynamoDB
     - Spring Framework
     - Backbone.js
     - Oracle
     - VMware
+    - JP1
     - etc. 
 
