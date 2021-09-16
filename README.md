@@ -1,7 +1,5 @@
 # sea-edge resume
 
-## Sample
-
 https://sea-edge.github.io/resume/
 
 ## Features
