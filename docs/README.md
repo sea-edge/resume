@@ -14,33 +14,39 @@
 
 ### Language
 
-- JavaScript
+- JavaScript/TypeScript
 - Python
 - Java
 - Dart
 - PHP 
 - Solidity
+- C#
 - Go(Hobby)
 - Rust(Hobby)
-- C++(Hobby)
+- C++/C(Hobby)
 
-### Frameworks, etc.
+### Frameworks
 
 - Vue/Nuxt
-- React
+- React/Next
+- Svelte/Sapper
 - Flask
 - FastAPI
 - TensorFlow
 - PyTorch
-- Spring Boot
+- Spring Boot/Spring Framework
 - Flutter
 - Laravel
 - Firebase
+- .NET/.NET Core/.NET framework
+
+## Clouds, etc.
 - AWS
    - EC2
    - Lambda
    - ECS
    - Dynamo
+   - Aurora/RDS
    - Elastic Beanstalk
    - Glue
    - Athena
@@ -49,14 +55,23 @@
    - Amplify
    - Code Series
    - etc. 
-
 - GCP
    - GAE
    - GCE
    - BigQuery
-   - Functions
+   - Cloud Functions
+   - Firebase
    - etc. 
-
+- Azure
+   - Azure VM
+   - Azure Functions
+   - Azure Storage
+   - Azure SQL Database
+   - etc.
+- Netlify
+- Vercel
+- ServerlessFramework
+- Terraform
 
 ---
 
