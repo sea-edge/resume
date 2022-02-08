@@ -67,7 +67,7 @@
    - Azure Functions
    - Azure Storage
    - Azure SQL Database
-   - etc.
+   - etc. 
 - Netlify
 - Vercel
 - ServerlessFramework
