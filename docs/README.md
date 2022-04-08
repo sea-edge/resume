@@ -128,6 +128,17 @@ Cryptocurrency Lending System for Fintech company
    - AWS Batch
    - Amazon Aurora
 
+Crypto Asset Algorith Trading System
+- **Project scale：**
+    - Scrum development with an average team of 1 people
+- **Role：**
+    - Design and coding
+- **Technology Stack：**
+   - AWS SAM
+   - AWS Amplify
+   - Python
+   - Nuxt.js
+
 Building a Data lake to store Big data for Fintech company
 - **Project scale：**
     - Scrum development with an average team of 2 people
@@ -215,7 +226,9 @@ Cryptocurrency Wallet System
     - Functional review, design, coding, and review
 - **Technology Stack：**
     - Vue.js
-    - AWS Lambda(Node.js)/DynamoDB
+    - Node.js
+    - AWS Lambda
+    - Amazon DynamoDB
     - AWS SAM
     - Spring Boot
     - Spring Data JPA
