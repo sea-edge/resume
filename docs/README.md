@@ -7,6 +7,7 @@
 |Name|Kaito Ryuzaki|
 |Facebook|[https://www.facebook.com/kaito.ryuzaki.3](https://www.facebook.com/kaito.ryuzaki.3)|
 |Twitter|[https://twitter.com/kaito0809Lbiri](https://twitter.com/kaito0809Lbiri)|
+|LinkedIn|[https://www.linkedin.com/in/海斗-竜崎-310524165/](https://www.linkedin.com/in/%E6%B5%B7%E6%96%97-%E7%AB%9C%E5%B4%8E-310524165/)|
 
 ---
 
@@ -29,7 +30,7 @@
 
 - Vue/Nuxt
 - React/Next
-- Svelte/Sapper
+- Svelte/Sapper(Hobby)
 - Flask
 - FastAPI
 - TensorFlow
@@ -78,6 +79,54 @@
 ## Work Experience
 
 ### Emoba inc.（2019/07〜Now）
+Technical Advisor on Crypto Assets
+
+Cryptocurrency Wallet System
+- **Project scale：**
+    - Scrum development with an average team of 10 people
+- **Role：**
+    - Development
+    - Design, Coding
+- **Technology Stack：**
+   - .NET
+   - Azure Cloud Services
+   - Azure Functions
+   - SQL Server
+   - Azure Service Bus
+   - Azure DevOps
+   - Datadog
+   - Terraform
+
+NFT(non-fungible token) Contract Development and NFT Management System for Illustration Sales Service
+- **Project scale：**
+    - Scrum development with an average team of 1 people
+- **Role：**
+    - Design and coding
+- **Technology Stack：**
+   - Hardhat
+   - Solidity
+   - Mocha
+   - TypeScript
+   - React
+   - AWS Amplify
+   - AWS Lambda
+   - Amazon Aurora
+   - AWS CDK
+
+Cryptocurrency Lending System for Fintech company
+- **Project scale：**
+    - Scrum development with an average team of 10 people
+- **Role：**
+    - Development
+    - Design, Coding
+- **Technology Stack：**
+   - Spring Boot
+   - Spring Batch
+   - MyBatis
+   - AWS ECS
+   - AWS Lambda
+   - AWS Batch
+   - Amazon Aurora
 
 Building a Data lake to store Big data for Fintech company
 - **Project scale：**
@@ -167,8 +216,10 @@ Cryptocurrency Wallet System
 - **Technology Stack：**
     - Vue.js
     - AWS Lambda(Node.js)/DynamoDB
-    - SAM
-    - Spring Boot/MySQL 
+    - AWS SAM
+    - Spring Boot
+    - Spring Data JPA
+    - MySQL 
     - Mackerel
     - Splunk
     - etc. 
