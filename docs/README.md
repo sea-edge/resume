@@ -80,7 +80,12 @@
 
 ### Emoba inc.（2019/07〜Now）
 Technical Advisor on Crypto Assets
-
+- **Role：**
+    - codeing review
+    - researcher
+- **Technology Stack：**
+   - Solidity
+    
 Cryptocurrency Wallet System
 - **Project scale：**
     - Scrum development with an average team of 10 people
