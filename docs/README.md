@@ -86,7 +86,7 @@ Technical Advisor on Crypto Assets
 - **Technology Stack：**
    - Solidity
     
-Cryptocurrency Wallet System
+Cryptocurrency Wallet System for Crypto Asset Exchange
 - **Project scale：**
     - Scrum development with an average team of 10 people
 - **Role：**
@@ -118,7 +118,7 @@ NFT(non-fungible token) Contract Development and NFT Management System for Illus
    - Amazon Aurora
    - AWS CDK
 
-Cryptocurrency Lending System for Fintech company
+Cryptocurrency Lending System for Crypto Asset Exchange
 - **Project scale：**
     - Scrum development with an average team of 10 people
 - **Role：**
