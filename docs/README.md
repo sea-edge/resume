@@ -81,8 +81,8 @@
 ### Emoba inc.（2019/07〜Now）
 Technical Advisor on Crypto Assets
 - **Role：**
-    - codeing review
-    - researcher
+    - Coding review
+    - Researcher
 - **Technology Stack：**
    - Solidity
     
