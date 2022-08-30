@@ -120,6 +120,20 @@ NFT(non-fungible token) Contract Development and NFT Management System for Illus
    - Amazon Aurora
    - AWS CDK
 
+Web Service for Medical Association Members
+- **Project scale：**
+    - Scrum development with an average team of 5 people
+- **Role：**
+    - Development
+- **Technology Stack：**
+   - GO
+      - gin
+      - ent
+   - Next.js
+   - AWS Lambda
+   - Amazon Aurora
+
+
 Cryptocurrency Lending and Transfer System for Crypto Asset Exchange
 - **Project scale：**
     - Scrum development with an average team of 10 people
@@ -128,6 +142,7 @@ Cryptocurrency Lending and Transfer System for Crypto Asset Exchange
     - Design, Coding
 - **Technology Stack：**
    - Spring Boot
+   - Spring Cloud Function
    - Spring Batch
    - MyBatis
    - AWS ECS
