@@ -126,7 +126,7 @@ Web Service for Medical Association Members
 - **Role：**
     - Development
 - **Technology Stack：**
-   - GO
+   - Go
       - gin
       - ent
    - Next.js
