@@ -22,7 +22,7 @@
 - PHP 
 - Solidity
 - C#
-- Go(Hobby)
+- Go
 - Rust(Hobby)
 - C++/C(Hobby)
 
@@ -52,6 +52,7 @@
    - Glue
    - Athena
    - Cloud Formation
+   - CDK
    - SAM
    - Amplify
    - Code Series
@@ -64,10 +65,11 @@
    - Firebase
    - etc. 
 - Azure
-   - Azure VM
-   - Azure Functions
-   - Azure Storage
-   - Azure SQL Database
+   - VM
+   - Functions
+   - Storage
+   - SQL Database
+   - Key Vault
    - etc. 
 - Netlify
 - Vercel
@@ -118,7 +120,7 @@ NFT(non-fungible token) Contract Development and NFT Management System for Illus
    - Amazon Aurora
    - AWS CDK
 
-Cryptocurrency Lending System for Crypto Asset Exchange
+Cryptocurrency Lending and Transfer System for Crypto Asset Exchange
 - **Project scale：**
     - Scrum development with an average team of 10 people
 - **Role：**
