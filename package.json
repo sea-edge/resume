@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "devDependencies": {
-    "husky": "^5.0.0-alpha.6",
+    "husky": "^8.0.1",
     "@textlint-ja/textlint-rule-no-insert-dropping-sa": "^2.0.1",
     "md-to-pdf": "^5.0.0",
     "textlint": "^11.6.3",
