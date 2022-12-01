@@ -11,10 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2-beta
+      - uses: actions/setup-node@v3
         with:
-          node-version: '18'
-      - run: npm install
+          node-version: 18
+      - run: npm ci
       - name: build pdf
         run: npm run build:pdf
       - name: create release
