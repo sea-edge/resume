@@ -30,7 +30,7 @@
 - Kotlin(Hobby)
 - Move(Hobby)
 - Deno(Hobby)
-- LISP(Hobby)
+- Lisp(Hobby)
 - Prolog(Hobby)
 
 ### Frameworks
