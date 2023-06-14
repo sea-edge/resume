@@ -57,7 +57,7 @@
 - Bitcoin(Including derivatives such as Lietecoin)
 - Ethereum(Including derivatives such as Polygon PoS, Arbitrum)
    - Hardhat
-   - foundry
+   - Foundry
    - Truffle
 - Ripple
 - Stellar
