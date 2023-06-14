@@ -16,6 +16,7 @@
 ### Language
 
 - JavaScript/TypeScript
+- Node.js
 - Python
 - Java
 - Dart
@@ -25,12 +26,21 @@
 - Go
 - Rust(Hobby)
 - C++/C(Hobby)
+- Swift(Hobby)
+- Kotlin(Hobby)
+- Move(Hobby)
+- Deno(Hobby)
+- LISP(Hobby)
+- Prolog(Hobby)
 
 ### Frameworks
 
 - Vue/Nuxt
 - React/Next
 - Svelte/Sapper(Hobby)
+- Express
+- NestJS
+- Fastify(Hobby)
 - Flask
 - FastAPI
 - TensorFlow
@@ -40,13 +50,33 @@
 - Laravel
 - Firebase
 - .NET/.NET Core/.NET framework
+- Gin
+- Echo(Hobby)
+
+### Blockchain(Web3)
+- Bitcoin(Including derivatives such as Lietecoin)
+- Ethereum(Including derivatives such as Polygon PoS, Arbitrum)
+   - Hardhat
+   - foundry
+   - Truffle
+- Ripple
+- Stellar
+- NEM/Symbol
+- Tezos(Hobby)
+- Flow(Hobby)
+- Hedera(Hobby)
+- Sui(Hobby)
+- Aptos(Hobby)
+- Filecoin(Hobby)
+- Arweave(Hobby)
 
 ## Clouds, etc.
 - AWS
    - EC2
    - Lambda
+   - Fargate
    - ECS
-   - Dynamo
+   - DynamoDB
    - Aurora/RDS
    - Elastic Beanstalk
    - Glue
@@ -58,8 +88,8 @@
    - Code Series
    - etc. 
 - GCP
-   - GAE
    - GCE
+   - GAE
    - BigQuery
    - Cloud Functions
    - Firebase
@@ -73,6 +103,7 @@
    - etc. 
 - Netlify
 - Vercel
+- Cloudflare
 - ServerlessFramework
 - Terraform
 
