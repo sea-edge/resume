@@ -16,7 +16,9 @@
 ### Language
 
 - JavaScript/TypeScript
-- Node.js
+   - Node.js
+   - Deno(Hobby)
+   - Bun(Hobby)
 - Python
 - Java
 - Dart
@@ -29,7 +31,6 @@
 - Swift(Hobby)
 - Kotlin(Hobby)
 - Move(Hobby)
-- Deno(Hobby)
 - Lisp(Hobby)
 - Prolog(Hobby)
 
