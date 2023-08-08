@@ -6,7 +6,7 @@
 |---|---|
 |Name|Kaito Ryuzaki|
 |Facebook|[https://www.facebook.com/kaito.ryuzaki.3](https://www.facebook.com/kaito.ryuzaki.3)|
-|Twitter|[https://twitter.com/kaito0809Lbiri](https://twitter.com/kaito0809Lbiri)|
+|X(Twitter)|[https://twitter.com/kaito0809Lbiri](https://twitter.com/kaito0809Lbiri)|
 |LinkedIn|[https://www.linkedin.com/in/海斗-竜崎-310524165/](https://www.linkedin.com/in/%E6%B5%B7%E6%96%97-%E7%AB%9C%E5%B4%8E-310524165/)|
 
 ---
@@ -55,7 +55,7 @@
 - Echo(Hobby)
 
 ### Blockchain(Web3)
-- Bitcoin(Including derivatives such as Lietecoin)
+- Bitcoin(Including derivatives such as Litecoin)
 - Ethereum(Including derivatives such as Polygon PoS, Arbitrum)
    - Hardhat
    - Foundry
