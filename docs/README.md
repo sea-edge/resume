@@ -63,6 +63,7 @@
 - Ripple
 - Stellar
 - NEM/Symbol
+- Hyperledger Fabric
 - Tezos(Hobby)
 - Flow(Hobby)
 - Hedera(Hobby)
@@ -113,13 +114,30 @@
 ## Work Experience
 
 ### Emoba inc.（2019/07〜Now）
+
+Stable coin development projects
+- **Project scale：**
+    - Average team of 10 people
+- **Role：**
+    - Define Requirements
+    - Development
+    - Design, Coding
+- **Technology Stack：**
+   - Golang
+   - ent
+   - ogent
+   - Hyperledger Fabric
+   - Amazon ElastiCache
+   - OpenID Connect
+   - AWS CDK
+
 Technical Advisor on Crypto Assets
 - **Role：**
     - Coding review
     - Researcher
 - **Technology Stack：**
    - Solidity
-    
+
 Cryptocurrency Wallet System for Crypto Asset Exchange
 - **Project scale：**
     - Scrum development with an average team of 10 people
