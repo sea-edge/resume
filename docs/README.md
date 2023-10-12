@@ -26,8 +26,8 @@
 - Solidity
 - C#
 - Go
+- C++/C
 - Rust(Hobby)
-- C++/C(Hobby)
 - Swift(Hobby)
 - Kotlin(Hobby)
 - Move(Hobby)
@@ -36,9 +36,9 @@
 
 ### Frameworks
 
-- Vue/Nuxt
-- React/Next
-- Svelte/Sapper(Hobby)
+- Vue.js/Nuxt
+- React/Next.js
+- Svelte/SvelteKit/Sapper(Hobby)
 - Express
 - NestJS
 - Fastify(Hobby)
