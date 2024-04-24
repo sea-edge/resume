@@ -27,7 +27,7 @@
 - C#
 - Go
 - C++/C
-- Rust(Hobby)
+- Rust
 - Swift(Hobby)
 - Kotlin(Hobby)
 - Move(Hobby)
@@ -83,15 +83,17 @@
    - Elastic Beanstalk
    - Glue
    - Athena
-   - Cloud Formation
+   - CloudFormation
    - CDK
    - SAM
    - Amplify
    - Code Series
+   - SageMaker
    - etc. 
 - GCP
    - GCE
    - GAE
+   - CloudSQL
    - BigQuery
    - Cloud Functions
    - Firebase
@@ -114,6 +116,25 @@
 ## Work Experience
 
 ### Emoba inc.（2019/07〜Now）
+Development Account Management System for Financial Institution
+- **Project scale：**
+    - Average team of 10 people
+- **Role：**
+    - Development
+    - Design, Coding
+- **Technology Stack：**
+   - Java
+   - Spring Boot
+   - Spring Security
+   - Doma
+   - Flyway
+   - TypeScript
+   - Vue/Nuxt
+   - React
+   - Aurora for MySQL
+   - Cognito
+   - ECS
+   - AWS CDK
 
 Stable coin development projects
 - **Project scale：**
@@ -126,9 +147,11 @@ Stable coin development projects
    - Golang
    - ent
    - ogent
+   - Aurora for MySQL
    - Hyperledger Fabric
    - Amazon ElastiCache
    - OpenID Connect
+   - Cognito
    - AWS CDK
 
 Technical Advisor on Crypto Assets
