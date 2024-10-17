@@ -22,14 +22,15 @@
 - Python
 - Java
 - Dart
-- PHP 
 - Solidity
 - C#
 - Go
 - C++/C
 - Rust
+- Kotlin
+- PHP
 - Swift(Hobby)
-- Kotlin(Hobby)
+
 - Move(Hobby)
 - Lisp(Hobby)
 - Prolog(Hobby)
