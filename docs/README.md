@@ -30,7 +30,6 @@
 - Kotlin
 - PHP
 - Swift(Hobby)
-
 - Move(Hobby)
 - Lisp(Hobby)
 - Prolog(Hobby)
@@ -61,6 +60,9 @@
    - Hardhat
    - Foundry
    - Truffle
+- Solana
+   - Metaplex
+   - Anchor
 - Ripple
 - Stellar
 - NEM/Symbol
@@ -117,6 +119,34 @@
 ## Work Experience
 
 ### Emoba inc.（2019/07〜Now）
+
+NFT Wallet Service for Crypto Asset Exchange
+- **Project scale：**
+    - Average team of 10-20 people
+- **Role：**
+    - Web3 Development
+    - Design, Coding
+- **Technology Stack：**
+   - TypeScript
+   - HardHat/Solidity
+   - Metaplex
+   - ECS
+   - AWS CDK
+
+Data Analysis Services for Financial Institution
+- **Project scale：**
+    - Average team of 10-20 people
+- **Role：**
+    - Development
+    - Design, Coding
+- **Technology Stack：**
+   - Python
+   - FastAPI
+   - TypeScript
+   - React/Remix
+   - Terraform
+
+
 Development Account Management System for Financial Institution
 - **Project scale：**
     - Average team of 10 people
