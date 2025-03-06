@@ -36,15 +36,21 @@
 
 ### Frameworks
 
-- Vue.js/Nuxt
-- React/Next.js
-- Svelte/SvelteKit/Sapper(Hobby)
+- React
+    - Next.js
+    - Remix
+- Vue.js
+    - Nuxt
+- Svelte
+    - SvelteKit
 - Express
 - NestJS
+- Hono
 - Fastify(Hobby)
 - Flask
 - FastAPI
 - TensorFlow
+- Keras
 - PyTorch
 - Spring Boot/Spring Framework
 - Flutter
@@ -81,8 +87,10 @@
    - Lambda
    - Fargate
    - ECS
+   - ECR
    - DynamoDB
    - Aurora/RDS
+   - S3
    - Elastic Beanstalk
    - Glue
    - Athena
@@ -92,6 +100,8 @@
    - Amplify
    - Code Series
    - SageMaker
+   - Bedrock
+   - IVS
    - etc. 
 - GCP
    - GCE
@@ -113,6 +123,7 @@
 - Cloudflare
 - ServerlessFramework
 - Terraform
+- Pulumi
 
 ---
 
@@ -146,6 +157,25 @@ Data Analysis Services for Financial Institution
    - React/Remix
    - Terraform
 
+
+Development of video distribution application for overseas influencers
+- **Project scale：**
+    - Average team of 10 people
+- **Role：**
+    - Development
+    - Design, Coding
+- **Technology Stack：**
+    - Kotlin
+    - Jetpack Compose
+    - Rust
+    - Cargo Lambda
+    - AWS CDK
+    - IVS
+    - Amplify
+    - AWS Lambda
+    - DynamoDB
+    - OpenSearch
+    - Cognito
 
 Development Account Management System for Financial Institution
 - **Project scale：**
