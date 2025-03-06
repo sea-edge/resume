@@ -1,4 +1,3 @@
-resume/pdf-configs/config.js
 module.exports = {
   stylesheet: "./pdf-configs/style.css",
   body_class: "markdown-body",
